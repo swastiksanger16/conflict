@@ -1,2 +1,4 @@
 # conflict
-this changes in the README is done via Main branch
+this is a demo repo to demostarte conflicts and also containes changes made via main
+
+
